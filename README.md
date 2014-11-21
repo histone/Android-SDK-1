@@ -3,7 +3,7 @@
 ## Documentation
 
 This repository contains the **RTCC Android SDK**.  
-More informations about can be found at [docs.sightcall.com](http://docs.sightcall.com/5.3/03_android_SDK/)
+More informations about can be found at [docs.sightcall.com](https://docs.sightcall.com/GD/03_android_SDK/)
 
 ## Download
 
